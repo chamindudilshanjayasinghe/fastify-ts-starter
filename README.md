@@ -1,17 +1,12 @@
-# Fastify TypeScript Starter
+# 🚀 Fastify TypeScript Starter
 
-This is a production-ready Fastify boilerplate built with TypeScript. It includes OpenAPI, Prisma, Pino, and Zod for a robust and scalable backend application.
+![Fastify](https://img.shields.io/badge/Fastify-v4.0.0-black?style=for-the-badge&logo=fastify) ![TypeScript](https://img.shields.io/badge/TypeScript-v5.0-blue?style=for-the-badge&logo=typescript) ![Prisma](https://img.shields.io/badge/Prisma-v4.0-green?style=for-the-badge&logo=prisma) ![Pino](https://img.shields.io/badge/Pino-Logger-orange?style=for-the-badge&logo=pino) ![Zod](https://img.shields.io/badge/Zod-Schema-red?style=for-the-badge&logo=zod)
 
-## Features
+This is a **production-ready Fastify boilerplate** built with TypeScript. It includes OpenAPI, Prisma, Pino, and Zod for a robust and scalable backend application.
 
-- **Fastify**: High-performance Node.js framework.
-- **TypeScript**: Strongly typed JavaScript for better developer experience.
-- **OpenAPI**: API documentation and validation.
-- **Prisma**: Modern database toolkit.
-- **Pino**: Fast and structured logging.
-- **Zod**: Schema validation.
+---
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 app/
@@ -31,7 +26,20 @@ app/
 │   └── utils/          # Utility functions
 ```
 
-## Getting Started
+---
+
+## 🛠️ Technologies Used
+
+- **Fastify**: High-performance Node.js framework.
+- **TypeScript**: Strongly typed JavaScript for better developer experience.
+- **OpenAPI**: API documentation and validation.
+- **Prisma**: Modern database toolkit.
+- **Pino**: Fast and structured logging.
+- **Zod**: Schema validation.
+
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -72,23 +80,21 @@ app/
    yarn dev
    ```
 
-### Scripts
+---
 
-- `dev`: Start the development server.
-- `build`: Build the project for production.
-- `start`: Start the production server.
-- `lint`: Run ESLint.
-- `test`: Run tests.
-
-## API Documentation
+## 📜 API Documentation
 
 The OpenAPI documentation is available at `/docs` when the server is running.
 
-## Contributing
+---
+
+## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
+---
+
+## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
